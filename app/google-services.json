@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925005625437",
+    "firebase_url": "https://falcorobotics.firebaseio.com",
+    "project_id": "falcorobotics",
+    "storage_bucket": "falcorobotics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925005625437:android:8eae50257108893de275b4",
+        "android_client_info": {
+          "package_name": "in.app.newproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925005625437-ngnao7lbo4m4s1uga9iijp15tdnf0ogu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnhQKvHAPb2yHlf2QoewxpOGA3qRnUJ9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925005625437-ngnao7lbo4m4s1uga9iijp15tdnf0ogu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
